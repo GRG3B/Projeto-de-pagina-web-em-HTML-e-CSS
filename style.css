@@ -82,3 +82,33 @@ audio {
   padding-left: 480px;
     
 }
+
+.section3 {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.section3 h1 {
+    font-size: 25px;
+    color: #E7C3E7;
+} 
+
+.section3 div {
+    display: flex;
+    overflow-x: scroll;
+    gap: 30px;
+
+    border: #E7C3E7 solid 5px;
+    padding: 20px;
+    background-color: #420031;
+}
+
+.section3 div img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.section3 div img:hover {
+    opacity: 1;
+    border: #E7C3E7 solid 1px;
+}
