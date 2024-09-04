@@ -25,10 +25,23 @@ header {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    border-top: #E7C3E7 solid 5px;
+    border-bottom: #E7C3E7 solid 5px;
 }
 
 .chamada-texto {
     margin-right: 3%;
+    margin: 20px;
+}
+
+.chamada-texto p {
+    font-size: 25px;
+}
+
+.chamada-video {
+    margin: 20px;
+    border: #E7C3E7 solid;
+    padding: 10px;
 }
 
 h1 {
