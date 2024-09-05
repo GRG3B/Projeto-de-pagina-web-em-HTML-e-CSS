@@ -3,7 +3,7 @@ body {
     background-image: url(https://yume.wiki/images/1/1b/%E7%B4%AB%E8%83%8C%E6%99%AF.png);
     margin: 0px;
     font-family: "Handjet", sans-serif;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -91,15 +91,15 @@ header img {
 }
 
 audio {
-  padding-top: 20px;
-  padding-left: 480px;
-    
+    padding-top: 20px;
+    padding-left: 480px;
+
 }
 
 .sectionfotos h1 {
     padding-left: 40px;
     font-size: 35px;
-    color: #E7C3E7;   
+    color: #E7C3E7;
 }
 
 .sectionfotos div {
@@ -128,16 +128,16 @@ audio {
     font-size: 25px;
 }
 
-.sectionondejogar h1{
+.sectionondejogar h1 {
     color: white;
     font-size: 35px;
-    margin-left: 20px ;
+    margin-left: 20px;
 }
 
 .sectionondejogar h2 {
     color: white;
     font-size: 25px;
-    margin-left: 20px ;
+    margin-left: 20px;
 }
 
 .sectionondejogar p {
@@ -151,23 +151,23 @@ audio {
     opacity: 1;
 }
 
-.sectionondejogar img{
+.sectionondejogar img {
     height: 250px;
     align-self: flex-end;
     margin-top: 50px;
     margin-left: 175;
     margin-bottom: 50px;
     padding: 10px;
-    border: #E7C3E7 solid  3px;
+    border: #E7C3E7 solid 3px;
 }
 
 .maismidias div {
-background-color: #420031;
-border-top: #E7C3E7 solid 5px;
-border-bottom: #E7C3E7 solid 5px ;
-margin-top: 20px;
-margin-bottom: 50px;
-padding: 20px;
+    background-color: #420031;
+    border-top: #E7C3E7 solid 5px;
+    border-bottom: #E7C3E7 solid 5px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 20px;
 }
 
 .maismidias h2 {
@@ -177,7 +177,7 @@ padding: 20px;
 
 .maismidias p {
     font-size: 25px;
-    color:white;
+    color: white;
 
 }
 
